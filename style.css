@@ -1,0 +1,22 @@
+body{
+    margin:100px;
+
+}
+h1{
+    line-height: 100px;
+    background-color: blue
+}
+h3{
+    background-color: blueviolet;
+    margin:0;
+    padding-left: 20px;
+}
+ul li{
+    list-style-type: none;
+    background-color: brown;
+    margin:2px;
+    line-height: 30px;
+    padding-left: 10px;
+    color:white;
+    font-weight: bold;
+}
